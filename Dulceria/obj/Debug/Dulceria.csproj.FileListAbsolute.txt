@@ -1,0 +1,6 @@
+C:\Users\alumnos\Desktop\MSR\Dulceria\bin\Debug\Dulceria.exe.config
+C:\Users\alumnos\Desktop\MSR\Dulceria\bin\Debug\Dulceria.exe
+C:\Users\alumnos\Desktop\MSR\Dulceria\bin\Debug\Dulceria.pdb
+C:\Users\alumnos\Desktop\MSR\Dulceria\obj\Debug\Dulceria.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\MSR\Dulceria\obj\Debug\Dulceria.exe
+C:\Users\alumnos\Desktop\MSR\Dulceria\obj\Debug\Dulceria.pdb
